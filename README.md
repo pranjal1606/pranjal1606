@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranjal Chandravadiya 
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript, Java and python
-- 💞️ I’m looking to collaborate on html, css, c++ related works
+- 🌱 I’m currently learning Python and Laravel
+- 💞️ I’m looking to collaborate on html, css, Javascript related works
 
 
 <!---
